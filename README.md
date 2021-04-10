@@ -7,7 +7,7 @@ Simple ToDoApp created using Django.
 2. Have Django 3 installed.
 3. Navigate to the "todoapp" directory. 
 
-Check Django Version
+4. Check Django Version
 ```
 python -m django --version
 
