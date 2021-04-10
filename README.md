@@ -23,4 +23,6 @@ python manage.py runserver
 ```
 
 
-Inspiration of the Project [YouTube](https://youtu.be/4RWFvXDUmjo){:target="_blank" rel="noopener"}
+
+
+<a href="https://youtu.be/4RWFvXDUmjo" target="_blank">external link</a>
