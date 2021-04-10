@@ -24,5 +24,5 @@ python manage.py runserver
 
 
 
-
-<a href="https://youtu.be/4RWFvXDUmjo" target="_blank">external link</a>
+## Inspiration and help from-
+<a href="https://youtu.be/4RWFvXDUmjo" target="_blank">YouTube Dennis Ivy</a>
