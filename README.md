@@ -12,3 +12,15 @@ Simple ToDoApp created using Django.
 python -m django --version
 
 ```
+5. Make sure Directory is Ok.
+
+```
+cd todoapp
+```
+6. Run the project. 
+```
+python manage.py runserver
+```
+
+
+Inspiration of the Project [YouTube](https://youtu.be/4RWFvXDUmjo){:target="_blank" rel="noopener"}
