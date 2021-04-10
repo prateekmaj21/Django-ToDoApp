@@ -1,0 +1,70 @@
+<div class="center-column">
+	<body>
+		<h1 style="text-align:center">TO DO APP</h1>
+		<p  style="text-align:center;">Simple Django App</p>
+		<p style="text-align:center;">-By Prateek Majumder</p>
+	 </body>
+	</div>
+
+<link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
+
+<style>
+
+	body{
+		background-color: #F9F871;
+	}
+
+	input{
+		width: 100%;
+		padding: 12px 20px;
+		margin: 8px 0;
+		box-sizing: border-box;
+	}
+
+	input::placeholder {
+	  color: #d3d3d3;
+	}
+
+	.submit{
+		background-color: #AA2C64;
+	}
+
+	.center-column{
+		width:650px;
+		margin: 15px auto;
+		padding:20px;
+		background-color: #FCFCD4ff;
+		border-radius: 10px;
+		box-shadow: 6px 2px 30px 0px rgba(0,0,0,0.75);
+	}
+
+	.item-row{
+		background-color: #8E84C9;
+		margin: 20px;
+		padding: 30px;
+		border-radius: 10px;
+		color: #fff;
+		font-size: 15px;
+		box-shadow: 0px -1px 10px -4px rgba(0,0,0,0.75);
+	}
+
+	.btn-danger{
+		background-color: #8FF4A2;
+		border-color: #A253A1;
+	}
+
+</style>
+
+<div class="center-column">
+
+<h3>Update Task</h3>
+
+<form method="POST" action="">
+	{% csrf_token %}
+
+	{{form}}
+	<input type="submit" name="Update Task">
+	
+	
+</form>
+</div>
