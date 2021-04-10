@@ -8,6 +8,7 @@ Simple ToDoApp created using Django.
 3. Navigate to the "todoapp" directory. 
 
 Check Django Version
-`<addr>` python -m django --version
+```
+python -m django --version
 
-
+```
