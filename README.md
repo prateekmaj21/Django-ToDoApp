@@ -4,7 +4,7 @@ Simple ToDoApp created using Django.
 # Screenshots
 ## Main Menu
 
-![Main Menu](https://github.com/prateekmaj21/Django-ToDoApp/blob/main/Images/Main_Menu.jpg)
+![Main Menu](https://github.com/prateekmaj21/Django-ToDoApp/blob/main/Images/Main_Menu.jpg){:height="50%" width="50%"}
 
 # How to use?
 
