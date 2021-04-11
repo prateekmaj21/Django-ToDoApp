@@ -1,6 +1,11 @@
 # Django-ToDoApp
 Simple ToDoApp created using Django.
 
+# Screenshots
+## Main Menu
+
+![Main Menu](https://github.com/prateekmaj21/Django-ToDoApp/blob/main/Images/Main_Menu.jpg)
+
 # How to use?
 
 1. Download the files. 
