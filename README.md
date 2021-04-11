@@ -4,7 +4,14 @@ Simple ToDoApp created using Django.
 # Screenshots
 ## Main Menu
 
-![Main Menu](https://github.com/prateekmaj21/Django-ToDoApp/blob/main/Images/Main_Menu.jpg){:height="50%" width="50%"}
+![Main Menu](https://github.com/prateekmaj21/Django-ToDoApp/blob/main/Images/Main_Menu.jpg)
+
+## Delete Task
+![Delete_Task](https://github.com/prateekmaj21/Django-ToDoApp/blob/main/Images/Delete_Task.jpg)
+
+## Update Task
+![Updata_Task](https://github.com/prateekmaj21/Django-ToDoApp/blob/main/Images/Update_Task.jpg)
+
 
 # How to use?
 
